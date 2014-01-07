@@ -7,6 +7,6 @@ Flash security xmlsocket server and client for port 843
 
 ##使用方法：
 
-go build main.go
+go build XmlSocket_843_Server.go
 
-main.exe
+XmlSocket_843_Server.exe
