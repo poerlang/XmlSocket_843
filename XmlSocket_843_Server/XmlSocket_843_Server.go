@@ -68,7 +68,7 @@ func sendFirstMsg(conn net.Conn) {
 	writer := bufio.NewWriter(conn)
 	writer.WriteString(str)
 	writer.Flush()
-	fmt.Println("done：crossdomain.xml")
+	fmt.Println("done: crossdomain.xml")
 }
 func checkError(err error) {
 	if err != nil {
