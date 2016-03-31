@@ -18,7 +18,7 @@ var (
 
 func main() {
 	fmt.Println(os.Args[0])
-	ip_port := "127.0.0.1:843"
+	ip_port := ":843"
 	if len(os.Args) > 1 {
 		ip_port = os.Args[1]
 	}
