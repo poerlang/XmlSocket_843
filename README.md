@@ -12,3 +12,8 @@ go  run  XmlSocket_843_Server.go
 ##或者：
 
 直接运行 XmlSocket_843_Server.exe
+
+
+另外, c版本的, 推荐用这个:
+
+https://github.com/andychase/FlashPolicyServer
